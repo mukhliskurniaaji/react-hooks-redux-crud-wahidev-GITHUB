@@ -1,0 +1,39 @@
+{
+  "kontak": [
+    {
+      "id": 1,
+      "nama": "Mukhlis Kurnia Aji",
+      "nomorHP": "087736188814"
+    },
+    {
+      "nama": "Banyu Bening",
+      "nomorHP": "081898080196",
+      "id": 4
+    },
+    {
+      "id": 11,
+      "nama": "Gunawan Update",
+      "nomorHP": "085736352718"
+    },
+    {
+      "id": 12,
+      "nama": "Midi Update",
+      "nomorHP": "081898080198"
+    },
+    {
+      "id": 17,
+      "nama": "Yohanes Update",
+      "nomorHP": "081898080198"
+    },
+    {
+      "id": 18,
+      "nama": "Sapi Manggoloyudho",
+      "nomorHP": "08189808019"
+    },
+    {
+      "nama": "Bayu",
+      "nomorHP": "0999887666",
+      "id": 19
+    }
+  ]
+}
